@@ -1,0 +1,4 @@
+En este documento se va a desarrollar un trabajo llevado en el que se van 
+a realizar varias modificaciones y queremos llevar un control de las 
+mismas. Se van a incluir resumenes de cambios, ramas y versiones. Va a 
+estar chulo!!
