@@ -8,3 +8,9 @@ Aquí el primer cambio en el archivo avance.txt!!!!!
 
 
 Aquí va el segundo cambio en el archivo avance.txt!!!
+
+
+
+EL CONFLICCTO: Estamos modificando el archivo desde la rama main (este 
+archivo va a estar duplicado tanto en la rama main como en la rama 
+feature/avances), habrá conflicto al hacer commit??? probable
